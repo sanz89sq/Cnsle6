@@ -5,7 +5,7 @@
     "inapp": false,
     "reviewpopup": "yes",
     "costumbanner": "yes",
-    "testMode": false,
+    "testMode": true,
 
     "pinterest_base": "https://api.pinterest.com/v3/pidgets/boards/Pebbleeu/",
     "board0": "bluey-hd-wallpaper/pins/",
