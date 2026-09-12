@@ -2,7 +2,7 @@
   "AdsController": {
     "adNetwork": "admob",
     "ads": "enable",
-    "inapp": false,
+    "inapp": true,
     "reviewpopup": "yes",
     "costumbanner": "yes",
     "testMode": true,
