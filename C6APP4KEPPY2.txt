@@ -12,7 +12,7 @@
     "applovinNative": "ff2ad150fa6847bf",
     "applovinAppOpen": "c0ace1906ec4394d",
 
-    "reddbubleLink": "https://www.redbubble.com/people/ChristianBoss/shop?ref=account-nav-dropdown&collections=4580071",
+    "reddbubleLink": "https://www.teepublic.com/user/toonsworld/albums/538289-bluey",
     "teepublicLink": "https://www.teepublic.com/user/toonsworld/albums/538289-bluey",
 
     "unityGameId": "6148642",
