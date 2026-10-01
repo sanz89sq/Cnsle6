@@ -4,7 +4,7 @@
     "ads": "enable",
     "inapp": true,
     "reviewpopup": "yes",
-    "costumbanner": "yes",
+    "costumbanner": "no",
     "testMode": false,
 
     "pinterest_base": "https://api.pinterest.com/v3/pidgets/boards/Pebbleeu/",
