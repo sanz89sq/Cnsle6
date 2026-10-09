@@ -2,7 +2,7 @@
   "AdsController": {
     "ads": "enable",
     "adNetwork": "admob",
-    "testads": "true",
+    "testads": "false",
     "interstitialtimer": 25,
     "adsclick": 60,
 
