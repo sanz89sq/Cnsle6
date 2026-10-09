@@ -2,7 +2,7 @@
   "AdsController": {
     "ads": "enable",
     "adNetwork": "admob",
-    "testads": "true",
+    "testads": "false",
 
     "suspended": "no",
     "suspended_icon": "https://raw.githubusercontent.com/sanz89sq/Dandypixel2026/refs/heads/main/icoon.png",
